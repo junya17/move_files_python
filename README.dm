@@ -23,7 +23,4 @@ Configure the following variables in the `FileOrganizer` class before running th
 - `new_folder`: The name of the folder where organized files will be moved.
 - `file_extensions`: The list of file extensions to organize.
 
-Example:
-```python
-photo_extensions = ['.jpg', '.jpeg', '.png', '.gif']
-photo_organizer = FileOrganizer('/path/to/Desktop', 'PhotoFiles', photo_extensions)
+
